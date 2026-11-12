@@ -15,8 +15,6 @@ This Privacy Policy describes how **China Telecom AI Technology Co., Ltd.** ("Xi
 
 **Input you send to the Service is transmitted to and processed on servers located in mainland China, and model Output is generated there.** This applies to every request, including requests that reach us through a third-party client, coding agent, gateway, routing service or model marketplace.
 
-For users in the European Economic Area, the United Kingdom and Switzerland: mainland China is not the subject of an adequacy decision. The transfer is a necessary part of the Service, and we offer appropriate safeguards — Standard Contractual Clauses, the UK International Data Transfer Addendum and the Swiss addendum — through a Data Processing Agreement available on request (see Section 6).
-
 If you do not want your Input transferred to and processed in mainland China, do not use the Service.
 
 ## 2. Information We Collect
@@ -64,15 +62,13 @@ We do **not sell** your personal information. We may share information only:
 
 **6.2 Transfers to China.** Because processing takes place in mainland China, any use of the Service involves a transfer of your Input from your location to mainland China, and a transfer of Output back to you. If you access the Service through a third-party platform (for example a coding agent, gateway operator or model marketplace), that platform transmits your Input to us on your instruction; the platform's own privacy policy also applies to its handling of your data before it reaches us.
 
-**6.3 Safeguards for EEA, UK and Swiss data subjects.** Mainland China is not the subject of an adequacy decision by the European Commission, and is not covered by the UK adequacy regulations or the Swiss adequacy list. Where personal data of data subjects in these jurisdictions is transferred to us, we rely on appropriate safeguards under the applicable law: the European Commission's Standard Contractual Clauses (Module Two, controller to processor), the UK International Data Transfer Addendum to the EU SCCs, and the Swiss addendum. A Data Processing Agreement incorporating these safeguards, together with our transfer impact assessment summary, is available on request to **xingchen-agi@chinatelecom.cn**.
+**6.3 PRC law.** Processing by us is also subject to the laws of the People's Republic of China, including the Personal Information Protection Law ("PIPL"). Where PRC law requires disclosure of information to a competent authority, we disclose only what is legally required, review each request for legal validity and scope, and — where lawful and technically feasible — notify the party that submitted the request or the affected account holder.
 
-**6.4 Your rights as a data subject in those jurisdictions.** Where GDPR, UK GDPR or the Swiss FADP applies, you have the rights described in Section 8. Because we may act as a processor on behalf of the platform through which you access the Service, requests relating to your account or your use of that platform should first be directed to that platform; we will assist it as required.
+**6.4 Onward transfers.** We do not transfer Input or Output to third parties for their own purposes, and we do not transfer them outside mainland China, except: (a) returning Output to you or to the platform that transmitted your request; (b) to our service providers that support the Service under contract and confidentiality obligations; or (c) where required by law.
 
-**6.5 PRC law.** Processing by us is also subject to the laws of the People's Republic of China, including the Personal Information Protection Law ("PIPL"). Where PRC law requires disclosure of information to a competent authority, we disclose only what is legally required, review each request for legal validity and scope, and — where lawful and technically feasible — notify the party that submitted the request or the affected account holder.
+**6.5 If this is not acceptable.** If you are located in a jurisdiction whose law does not permit the transfer described in this Section, or you do not accept it, do not use the Service. Enterprise customers should contact us at **xingchen-agi@chinatelecom.cn** to discuss available options.
 
-**6.6 Onward transfers.** We do not transfer Input or Output to third parties for their own purposes, and we do not transfer them outside mainland China, except: (a) returning Output to you or to the platform that transmitted your request; (b) to our service providers that support the Service under contract and confidentiality obligations; or (c) where required by law.
-
-**6.7 If this is not acceptable.** If you are located in a jurisdiction whose law does not permit the transfer described in this Section, or you do not accept it, do not use the Service. Enterprise customers should contact us at **xingchen-agi@chinatelecom.cn** to discuss available options.
+**6.6 Disclaimer on Data Location and User Compliance Responsibility.** Please note that the services are provided by an entity located within the territory of the People's Republic of China. Any data you submit, generate, synchronize, or otherwise process in the course of using the services, together with related logs, backups, and operational information, may be collected, stored, used, processed, transmitted, backed up, security-audited, and maintained within China. You are solely responsible for assessing and ensuring your compliance with all applicable laws, regulations, and regulatory requirements in your country or region of residence or operation, including but not limited to those governing data protection, privacy, cross-border data transfer, cybersecurity, export control, and industry-specific regulation, prior to accessing or using the services. We assume no liability for any responsibilities, losses, penalties, or third-party claims arising from your failure to conduct such assessment or to obtain any required approvals, authorizations, or consents, or from your use of the services in violation of mandatory requirements under your applicable jurisdiction. We make no express or implied representation or warranty that the services comply with the laws, regulations, or industry standards of any particular jurisdiction.
 
 ## 7. Data Security
 
@@ -80,9 +76,7 @@ We implement reasonable administrative, technical, and physical safeguards to pr
 
 ## 8. Data Subject Rights
 
-Where applicable law provides, you may have the right to access, correct, delete, or restrict the processing of your personal information, and to object to certain processing. To exercise these rights, contact us at **xingchen-agi@chinatelecom.cn**.
-
-Where GDPR or UK GDPR applies, these rights include access, rectification, erasure, restriction, objection, and data portability, and the right to lodge a complaint with your local supervisory authority. We respond to verified requests within the period required by applicable law.
+Where applicable law provides, you may have the right to access, correct, delete, or restrict the processing of your personal information, and to object to certain processing. To exercise these rights, contact us at **xingchen-agi@chinatelecom.cn**. We respond to verified requests within the period required by applicable law.
 
 ## 9. Children's Privacy
 
@@ -103,8 +97,6 @@ We may update this Privacy Policy from time to time. Material changes will be an
 ## 13. Contact Us
 
 For privacy questions or requests: **xingchen-agi@chinatelecom.cn**
-
-For data processing agreements and transfer safeguards: **xingchen-agi@chinatelecom.cn**
 
 Address: Building 2, Floors 1-2, Rooms 2-6 and 2-9 (No. 01), No. 156, 158 and 160 Xisi North Street, Xicheng District, Beijing, People's Republic of China
 
